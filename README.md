@@ -1,3 +1,3 @@
 # mango
 
-##mang is the best fruit
+## mango is the best fruit
